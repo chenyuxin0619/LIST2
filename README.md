@@ -1,10 +1,2 @@
 # LIST2
-
-I
-
-V
-
-I
-
-
-P
+I Love Github.
